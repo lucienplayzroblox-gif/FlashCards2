@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Physics Flashcards</title>
+    <link rel="stylesheet" href="physics.css">
+</head>
+<body class="physics-page">
+    <div class="container">
+        <header>
+            <a href="index.html" class="back-btn">← Back</a>
+            <h1>🔵 Physics Flashcards</h1>
+        </header>
+
+        <div class="controls">
+            <button id="prevBtn" class="nav-btn physics">← Previous</button>
+            <span id="cardCount">1 / <span id="totalCards">0</span></span>
+            <button id="nextBtn" class="nav-btn physics">Next →</button>
+        </div>
+
+        <div class="section-header physics" id="sectionHeader">
+            <p id="sectionText">Loading...</p>
+        </div>
+
+        <div class="flashcard-container">
+            <div class="flashcard" id="flashcard">
+                <div class="flashcard-inner">
+                    <div class="flashcard-front physics">
+                        <p id="questionText">Loading...</p>
+                        <p class="hint">Click to reveal answer</p>
+                    </div>
+                    <div class="flashcard-back physics">
+                        <p id="answerText">Loading...</p>
+                        <p class="hint">Click to see question</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="progress-bar">
+            <div id="progressFill" class="progress-fill"></div>
+        </div>
+    </div>
+
+    <!-- Topic Selector Modal -->
+    <div id="topicModal" class="modal">
+        <div class="modal-content">
+            <div class="modal-header physics">
+                <h2>Select Topic</h2>
+                <span class="close">&times;</span>
+            </div>
+            <div id="topicList" class="topic-list"></div>
+        </div>
+    </div>
+
+    <script src="chemistry.js"></script>
+    <script src="physics.js"></script>
+</body>
+</html>

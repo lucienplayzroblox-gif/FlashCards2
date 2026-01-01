@@ -1,0 +1,101 @@
+/* Index-specific stylesheet (copied from styles.css, trimmed for index page) */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #1a1a1a;
+    color: #ffffff;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    min-height: 100vh;
+    transition: all 0.3s ease;
+}
+
+body.index-page {
+    background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%);
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+header h1 {
+    font-size: 2.5em;
+    color: #ff9500;
+    margin-bottom: 10px;
+}
+
+header .subtitle {
+    color: #bbb;
+    font-size: 1.1em;
+}
+
+.subjects-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 20px;
+    margin-bottom: 40px;
+}
+
+.subject-btn {
+    background: linear-gradient(135deg, #ff9500 0%, #ff7700 100%);
+    border: none;
+    color: white;
+    padding: 40px 20px;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 1.1em;
+    transition: all 0.3s ease;
+    text-decoration: none;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+    text-align: center;
+    box-shadow: 0 5px 15px rgba(255, 149, 0, 0.3);
+}
+
+.subject-btn.chemistry {
+    background: linear-gradient(135deg, #cc3333 0%, #aa0000 100%);
+    box-shadow: 0 5px 15px rgba(255, 0, 0, 0.3);
+}
+
+.subject-btn.physics {
+    background: linear-gradient(135deg, #67a6d3 0%, #0b5aaa 100%);
+    box-shadow: 0 5px 15px rgba(0, 153, 255, 0.3);
+}
+
+.subject-btn.bangla {
+    background: linear-gradient(135deg, #202325 0%, #000000 100%);
+    box-shadow: 0 5px 15px rgba(63, 63, 63, 0.3);
+}
+
+@media (max-width: 768px) {
+    header h1 {
+        font-size: 1.8em;
+    }
+
+    .subjects-grid {
+        grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+        gap: 15px;
+    }
+
+    .subject-btn {
+        padding: 30px 15px;
+        gap: 10px;
+    }
+
+    .subject-btn .icon {
+        font-size: 2em;
+    }
+}

@@ -1,0 +1,1014 @@
+SECTION: Practical - Observations of Qualitative Analysis - Ppt Forms
+Q: What observations should be noted when a precipitate forms?
+A: Colour of ppt, Solubility test by aqueous NaOH or aqueous NH3 (No need for any other reagent), Mention the colour of the solution (if ppt dissolves)
+---
+
+SECTION: Practical - Observations of Qualitative Analysis - Gas Forms
+Q: What observations should be noted when a gas forms?
+A: Effervescence of gas (for insoluble gas), A gas is given off (for soluble gas), You should test the gas, You must identify the gas
+---
+
+SECTION: Practical - Tips and Tricks
+Q: When should you hold damp red litmus paper?
+A: When sample is heated with NaOH/Aluminium foil + NaOH/Sample only
+---
+
+SECTION: Practical - Tips and Tricks
+Q: When should you introduce a glowing splint?
+A: When bubbles of gas is seen with hydrogen peroxide (H2O2) for Oxygen gas
+---
+
+SECTION: Practical - Tips and Tricks
+Q: How many observations should be made when filtrate is collected?
+A: There is only one observation when filtrate is collected - Observation: Colour of filtrate only
+---
+
+SECTION: Practical - Tips and Tricks
+Q: How do you identify if a gas is Carbon Dioxide?
+A: If any colour of solid (except silvery colour) forms bubbles of gas with a liquid, the gas is nothing but Carbon Dioxide. Observations: Effervescence of gas, Turns limewater milky, The gas is Carbon Dioxide
+---
+
+SECTION: Practical - Tips and Tricks
+Q: How do you identify if a gas is Hydrogen?
+A: If silvery coloured solid forms bubbles of gas with a liquid, the gas is nothing but Hydrogen. Observations: Effervescence of gas, 'Pop's with a lighted splint, The gas is hydrogen
+---
+
+SECTION: Practical - Tips and Tricks
+Q: What colour is the precipitate with Ba(NO3)2 or BaCl2?
+A: Ppt with Ba(NO3)2 or BaCl2 is nothing but white in colour
+---
+
+SECTION: Practical - Tips and Tricks
+Q: What colour solution observations should be mentioned?
+A: Mention only the colour of solution if filtrate is collected
+---
+
+SECTION: Practical - Solution Colours
+Q: What metal produces a blue solution?
+A: Copper
+---
+
+SECTION: Practical - Solution Colours
+Q: What metal produces a green solution?
+A: Chromium
+---
+
+SECTION: Practical - Solution Colours
+Q: What metal produces a brown/yellow solution?
+A: Iron (III)
+---
+
+SECTION: Practical - General Advice
+Q: Why should we stir the mixture?
+A: To make it react or dissolve faster
+---
+
+SECTION: Practical - General Advice
+Q: When can we know a reaction is complete?
+A: When the effervescence stops
+---
+
+SECTION: Practical - General Advice
+Q: What will happen if we don't wash the burette with its respective solution?
+A: The titration result will increase as water will dilute the solution
+---
+
+SECTION: Practical - General Advice
+Q: Why shouldn't we use measuring cylinders?
+A: It is not precise enough as it cannot measure 1 dp. Use burette or pipette instead
+---
+
+SECTION: Practical - General Advice
+Q: How to do a flame test?
+A: Dip the nichrome wire/rod in the solution, Place the wire in the blue or non-luminous part of the flame
+---
+
+SECTION: Practical - General Advice
+Q: What equipment should be mentioned when doing a filtration experiment?
+A: Filter paper, Filter funnel, Suitable container like conical flask
+---
+
+SECTION: Practical - General Advice
+Q: Why should we not use tap water?
+A: It is impure and contains dissolved minerals
+---
+
+SECTION: Practical - General Advice
+Q: Why do we rinse burette with distilled water?
+A: To remove impurities
+---
+
+SECTION: Practical - General Advice
+Q: What are the general tips for salt preparation?
+A: When making salt solution, add excess acid. Use bunsen burner not heater
+---
+
+SECTION: Practical - General Advice - Sulfite/Sulfate Exception
+Q: What is the exception when testing with silver nitrate and nitric acid?
+A: When there is a sample to be tested and we add silver nitrate in part (a) and then nitric acid in part (b), then an exception occurs. Sulfate ions will form white ppt in both, so in (a) we will write white ppt forms and in (b) we will write ppt remains, not no change. Sulfite ions dissolve in excess dilute nitric acid so ppt dissolves in (b). [Barium nitrate is not used in this exception as it would be too obvious that it is referring to sulfate and a white ppt will form]
+---
+
+SECTION: States of Matter - Error List - General
+Q: How does bromine absorb energy to become gas?
+A: Bromine absorbs energy to become gas. The gas particles collide and mix with air particles. Gas particles are in constant random motion. The gas particles move from higher concentration to lower concentration
+---
+
+SECTION: States of Matter - Error List - General
+Q: How do tea particles behave in water?
+A: Tea particles collide and mix with water and then move from higher concentration to lower concentration.
+---
+
+SECTION: States of Matter - Error List - General
+Q: How do aqueous NH3 and HCl behave and why?
+A: Aqueous NH3 and HCl absorb energy and have enough energy to become gas and escape from aqueous NH3 and HCl. Gas is in constant random motion and collides and mixes with air particles. Gases move from high concentration to low concentration by diffusion. NH3 molecules have lower RMM so they move faster than HCl and solid forms where NH3 and HCl react.
+---
+
+SECTION: States of Matter - Error List - General
+Q: When should you mention molecules when mentioning RMM/Mr?
+A: Mention molecules when mentioning RMM/Mr in respect to diffusion
+---
+
+SECTION: States of Matter - Error List - General
+Q: When discussing separation, what should be written?
+A: For separation we write if it increases or decreases
+---
+
+SECTION: States of Matter - Error List - General
+Q: Why is the rate of evaporation low at low temperature?
+A: Rate of evaporation is low at low temp as particles have low kinetic energy and dont have enough energy to escape as gas
+---
+
+SECTION: States of Matter - Error List - General
+Q: Is solubility a physical or chemical property?
+A: Solubility is a physical property
+---
+
+SECTION: States of Matter - Error List - General
+Q: What is diffusion?
+A: Diffusion is the net movement of particles from higher concentration to lower concentration with the concentration gradient due to random motion in any direction
+---
+
+SECTION: States of Matter - Error List - General
+Q: How should diffusion be described in chemistry?
+A: In chemistry we write "with the concentration gradient", not "down the concentration gradient"
+---
+
+SECTION: Atoms, Elements and Compounds - Error List
+Q: What are isotopes?
+A: Isotopes are atoms of the same element with the same number of protons and electrons but different number of neutrons or different nucleon number
+---
+
+SECTION: Atoms, Elements and Compounds - Error List
+Q: Why is graphite slippery?
+A: Atoms are arranged in layer/It has layered structure. The layers slide over each other if force is applied as there are weak forces between layers
+---
+
+SECTION: Atoms, Elements and Compounds - Error List
+Q: What are the similarities between diamond and silicon dioxide?
+A: Tetrahedral structure, Giant structure, Covalent bonds
+---
+
+SECTION: Atoms, Elements and Compounds - Error List
+Q: Why are noble gases unreactive?
+A: It has a full electronic structure and its outer shell has 8/2 electrons, so it does not want to take or give electrons.
+---
+
+SECTION: Atoms, Elements and Compounds - Error List
+Q: Why does X have a higher RAM?
+A: It has a greater proportion of heavier isotopes
+---
+
+SECTION: Atoms, Elements and Compounds - Error List
+Q: Why is X a neutral particle?
+A: It has same number of protons and electrons. Protons have +1 positive charge and electrons have -1 negative charge. So they cancel each other
+---
+
+SECTION: Atoms, Elements and Compounds - Error List
+Q: What are the physical properties of ions?
+A: Dissolves in water, Conducts electricity when molten, High melting point
+---
+
+SECTION: Atoms, Elements and Compounds - Error List
+Q: Why do covalent compounds have high melting point?
+A: Giant covalent structure, Strong covalent bonds, High energy needed to break bonds
+---
+
+SECTION: Atoms, Elements and Compounds - Error List
+Q: Why do ionic compounds have high melting point?
+A: They have giant ionic lattice structure, They have strong electrostatic force of attraction between positive and negative ions, A high amount of energy is needed to overcome the forces
+---
+
+SECTION: Atoms, Elements and Compounds - Error List
+Q: Why does chlorine have low melting point?
+A: It is a simple covalent structure, It has weak forces between molecules, Small amount of energy required to separate molecules or overcome force
+---
+
+SECTION: Atoms, Elements and Compounds - Error List
+Q: Why does metal X have a much higher melting point than metal Y?
+A: Stronger force of attraction, Require more energy to overcome, Greater charge on cation, More delocalised electrons
+---
+
+SECTION: Atoms, Elements and Compounds - Error List
+Q: Describe how a francium ion and an oxide ion are formed from a francium atom and an oxygen atom?
+A: Francium atom loses one electron to form Francium ion, Oxygen atom gains two electron to form Oxide ion, So both atoms have 8 electrons in their outer shell or full outer shell
+---
+
+SECTION: Atoms, Elements and Compounds - Error List
+Q: Why is the formula of an ion X rather than Y or Z?
+A: X has full outer shell of electron
+---
+
+SECTION: Stoichiometry - Error List
+Q: What is a common question about Alum?
+A: Check for specific Alum information (reference to be completed)
+---
+
+SECTION: Electrochemistry - Error List - Important Reaction
+Q: What is the anode reaction?
+A: Anode: 4OH- – 4e- → 2H2O + O2. Alternative: 4OH- → O2 + 2H2O + 4e-
+---
+
+SECTION: Electrochemistry - Error List - Hydrogen Oxygen Fuel Cell Reactions
+Q: What are the hydrogen oxygen fuel cell reactions?
+A: H2 → 2H+ + 2e-, O2 + 4H+ + 4e- —> 2H2O
+---
+
+SECTION: Electrochemistry - Error List
+Q: What is the direction of electron flow in electrolysis?
+A: From the anode to the cathode because electrons are released at anode
+---
+
+SECTION: Electrochemistry - Error List
+Q: Why can X be electrolysed but not Y?
+A: X has ions. Y does not have ions
+---
+
+SECTION: Electrochemistry - Error List
+Q: Explain in terms of transfer of electrons why hydrogen and not sodium is produced at the negative electrode?
+A: Hydrogen ions gain electrons more easily
+---
+
+SECTION: Electrochemistry - Error List - General
+Q: What should be mentioned when the cathode increases in mass?
+A: Mention cathode gets plated when it increases in mass
+---
+
+SECTION: Electrochemistry - Error List - General
+Q: What is the mole ratio of hydrogen and oxygen in water?
+A: Mole ratio of hydrogen and oxygen in water is 2:1 so volume of hydrogen produced is approximately double that of oxygen
+---
+
+SECTION: Electrochemistry - Error List - General
+Q: What is electroplating used for?
+A: Electroplating is used to increase hardness and resistance to corrosion
+---
+
+SECTION: Electrochemistry - Error List - General
+Q: What are the advantages of hydrogen as a fuel?
+A: Produces only water as a product (Non-polluting), Hydrogen can be obtained from a renewable source
+---
+
+SECTION: Electrochemistry - Error List - General
+Q: What are the disadvantages of hydrogen as a fuel?
+A: It is flammable/explosive
+---
+
+SECTION: Chemical Energetics - Error List - Common Questions
+Q: What should be done instead of mentioning overall energy change?
+A: Replace overall energy change with ΔH
+---
+
+SECTION: Chemical Reactions - Definitions - General
+Q: What is an exothermic reaction?
+A: State that an exothermic reaction transfers thermal energy to the surroundings leading to an increase in the temperature of the surroundings
+---
+
+SECTION: Chemical Reactions - Definitions - General
+Q: What is an endothermic reaction?
+A: State that an endothermic reaction takes in thermal energy from the surroundings leading to a decrease in the temperature of the surroundings
+---
+
+SECTION: Chemical Reactions - Definitions - General
+Q: What is the transfer of thermal energy during a reaction called?
+A: The transfer of thermal energy during a reaction is called the enthalpy change, ΔH, of the reaction
+---
+
+SECTION: Industrial Chemistry
+Q: What are the uses of sulfur dioxide?
+A: Food preservative, Manufacture of wood pulp/paper (by acting as a bleach), Manufacture of sulfuric acid
+---
+
+SECTION: Industrial Chemistry
+Q: What are the uses of sulfuric acid?
+A: Manufacture of fertilisers, Battery acid, Manufacture of detergents
+---
+
+SECTION: Industrial Chemistry
+Q: Why does a reaction/catalyst become hot?
+A: Reaction is exothermic, Heat is released
+---
+
+SECTION: Acids, Bases and Salts - Error List - General
+Q: What should be done when using universal indicator?
+A: When using universal indicator, compare the colour with a colour chart
+---
+
+SECTION: Acids, Bases and Salts - Error List
+Q: Why is H2SO4 stronger than ethanoic acid?
+A: H2SO4 has 2 H+ ions per mole but ethanoic acid only has 1 H+ per mole
+---
+
+SECTION: Acids, Bases and Salts - Error List
+Q: What is an acid?
+A: A proton donor which disassociates in water to form H+ ions
+---
+
+SECTION: Acids, Bases and Salts - Error List
+Q: What is a weak acid?
+A: An acid which only partially disassociates in water to form H+ ions. An equilibrium reaction is created
+---
+
+SECTION: Acids, Bases and Salts - Error List - Solubility Chart
+Q: What can be said about nitrates?
+A: All nitrates are soluble in water
+---
+
+SECTION: Acids, Bases and Salts - Error List - Solubility Chart
+Q: What can be said about ammonium compounds?
+A: All ammonium compounds are soluble in water
+---
+
+SECTION: Acids, Bases and Salts - Error List - Solubility Chart
+Q: What can be said about chlorides?
+A: All chlorides are soluble in water except Lead (II) Chloride and Silver Chloride
+---
+
+SECTION: Acids, Bases and Salts - Error List - Solubility Chart
+Q: What can be said about sulfates?
+A: All sulfates are soluble in water except Lead (II) Sulfate, Barium Sulfate and Calcium Sulfate
+---
+
+SECTION: Acids, Bases and Salts - Error List - Solubility Chart
+Q: What can be said about carbonates?
+A: All carbonates are insoluble in water except G1 Carbonates and Ammonium Carbonate
+---
+
+SECTION: Acids, Bases and Salts - Error List - Solubility Chart - Oxides and Hydroxides
+Q: What can be said about G1 oxides and hydroxides?
+A: All G1 oxides and hydroxides are soluble in water
+---
+
+SECTION: Acids, Bases and Salts - Error List - Solubility Chart - Oxides and Hydroxides
+Q: What can be said about G2 oxides and hydroxides?
+A: G2 oxides and hydroxides have increasing solubility down the group
+---
+
+SECTION: Acids, Bases and Salts - Error List - Solubility Chart - Oxides and Hydroxides
+Q: What can be said about ammonium hydroxide?
+A: Ammonium hydroxide is soluble in water
+---
+
+SECTION: Acids, Bases and Salts - Error List - Solubility Chart - Oxides and Hydroxides
+Q: What can be said about other oxides and hydroxides?
+A: No other Oxide or Hydroxide is soluble in water
+---
+
+SECTION: The Periodic Table - Error List - General
+Q: Is Carbon Dioxide acidic or neutral?
+A: Carbon Dioxide is acidic, Carbon Monoxide is neutral
+---
+
+SECTION: The Periodic Table - Error List - General
+Q: What are the colours of copper compounds?
+A: Copper is pink, Copper (II) Oxide is black, Copper (I) Oxide is red
+---
+
+SECTION: The Periodic Table - Error List - General
+Q: What are monoatomic elements?
+A: Monoatomic elements are those which exist as an atom and do not from molecules
+---
+
+SECTION: The Periodic Table - Error List - General
+Q: How do transition metals compare to alkali metals?
+A: Transition metals have higher melting points and densities than alkali metals
+---
+
+SECTION: The Periodic Table - Error List - General
+Q: Why are catalysts used?
+A: Catalysts are used to produce products quickly and lower costs as less energy has to be supplied
+---
+
+SECTION: The Periodic Table - Error List - Properties of Transition Metals
+Q: What are the properties of transition metals?
+A: High melting and boiling point, Variable oxidation state, Form coloured compounds, High density, Compound for complex ions, Catalytic activity
+---
+
+SECTION: The Periodic Table - Error List - Properties of Transition Metals
+Q: Is being a good conductor of electricity a strong or weak point for transition metals?
+A: Good conductor of electricity is a weak point
+---
+
+SECTION: The Periodic Table - Error List - Difference Between Transition Metal and Other Metals
+Q: What are the differences between transition metals and other metals?
+A: High melting and boiling point, High density, Harder
+---
+
+SECTION: The Periodic Table - Error List - Difference Between G1 Metals and Other Metals
+Q: What are the differences between G1 metals and other metals?
+A: Less dense, Softer, Low melting and boiling point
+---
+
+SECTION: The Periodic Table - Error List - Typical Properties of Metals
+Q: What are the typical properties of metals?
+A: Malleable, Good conductor of electricity, Ductile, Shiny
+---
+
+SECTION: The Periodic Table - Error List - Uses of Argon
+Q: What are the uses of Argon?
+A: Steelmaking, In light bulbs, Welding
+---
+
+SECTION: Metals - Error List
+Q: Why is aluminium unreactive?
+A: Aluminium is unreactive as it forms a non-porous oxide layer which is impermeable to water and oxygen
+---
+
+SECTION: Metals - Error List - Alloys
+Q: How do alloys differ from pure metals?
+A: Alloys have different sized atoms which prevent ions from sliding over each other easily but pure metals have same sized atoms so layers of atoms can slide over each other easily when force is applied. For example, in an alloy of Iron and Manganese, the larger Manganese atoms stop the layers from sliding easily.
+---
+
+SECTION: Metals - Error List - Alloys
+Q: What are the differences between alloys and pure metals?
+A: Alloys are harder, Alloys are less malleable, Metals have greater electrical conductivity, Alloys are more brittle [Weaker point]
+---
+
+SECTION: Metals - Error List
+Q: Why are metals malleable?
+A: Metals are malleable as metal ions form layers which can slide over each other easily if force is applied
+---
+
+SECTION: Metals - Error List
+Q: What are the uses of materials in blast furnace?
+A: Haematite – Iron ore which contains the iron and is reduced to form iron, Limestone – Decomposes to form calcium oxide (and carbon dioxide) which removes impurities. (Such as silicon dioxide by reacting with it to form slag), Coke – Forms carbon dioxide with oxygen and then reduces it to carbon monoxide. Carbon monoxide reduces iron ore to form iron
+---
+
+SECTION: Metals - Error List
+Q: Describe the processes that occur in a blast furnace?
+A: Carbon reacts with oxygen in air blast to form carbon dioxide, Carbon reduces carbon dioxide to form carbon monoxide, Carbon monoxide reduces haematite to form iron, Carbon can also reduce haematite in hotter parts of the furnace [Weaker point], Calcium carbonate thermally decomposes to form calcium oxide, Calcium oxide reacts with silicon dioxide in the ore, Calcium oxide also reacts with acidic impurities [Weaker point, mention only if the details of limestone role are asked for], This forms slag/calcium silicate, These impurities would have clogged up the blast furnace if not removed by limestone. [Weaker point, mention only if the details of limestone role are asked for]
+---
+
+SECTION: Metals - Error List
+Q: How does zinc protect iron from rusting?
+A: Zinc is more reactive than iron so it reacts with air and moisture to corrode instead of iron. This. zinc loses electrons more readily than iron. However, with a less reactive metal (Tin), oxygen and water can still react with the water if there is a scratch [Mention only if asked]
+---
+
+SECTION: Metals - Error List - General Errors
+Q: Does Zinc Carbonate release much carbon dioxide initially?
+A: Zinc Carbonate does not release much carbon dioxide initially as it is not hot enough to decompose
+---
+
+SECTION: Metals - Error List - General Errors
+Q: When is the greatest voltage produced in an electrochemical cell?
+A: Greatest voltage is produced in an electrochemical cell when the least reactive and most reactive metals are combined together.
+---
+
+SECTION: Metals - Error List - General Errors
+Q: What is brass?
+A: Brass is a mixture of copper and zinc
+---
+
+SECTION: Metals - Error List - General Errors
+Q: What is stainless steel?
+A: Stainless steel is a mixture of iron and other elements like copper, nickel, carbon
+---
+
+SECTION: Metals - Error List - General Errors
+Q: When does thermal decomposition occur?
+A: Thermal decomposition of less reactive metals occur first
+---
+
+SECTION: Metals - Error List - General Errors
+Q: What should be mentioned when Potassium/Sodium/Lithium reacts with water?
+A: If Potassium/Sodium/Lithium is in a reaction with water and the question asks for observations, mention their reaction with water, such as float on water, move rapidly, melt, lilac flame
+---
+
+SECTION: Metals - Error List - General Errors
+Q: How does the percentage of carbon affect the alloy?
+A: The greater the percentage of carbon, the more brittle the alloy but the stronger/less malleable the allow
+---
+
+SECTION: Metals - Error List - General Errors
+Q: Which metal takes a long time to react with cold water but rapidly with steam?
+A: If the question asks which metal takes a long time to react with cold water but rapidly with steam, the metal is iron
+---
+
+SECTION: Metals - Error List - General Errors
+Q: What is mild steel used for?
+A: Mild steel is used in car bodies
+---
+
+SECTION: Metals - Error List - General Errors
+Q: Is pure iron formed in blast furnace?
+A: Pure iron is not formed in blast furnace
+---
+
+SECTION: Metals - Error List - General Errors
+Q: What happens when a hydrated carbonate decomposes thermally?
+A: When a hydrated carbonate decomposes thermally it produces the carbonate and water
+---
+
+SECTION: Metals - Error List - General Errors
+Q: How does reactivity affect thermal stability of metal carbonate?
+A: More reactive metal carbonate is more thermally stable so takes more time to decompose
+---
+
+SECTION: Metals - Error List - General Errors
+Q: What is an alloy?
+A: Alloy is a mixture of metal with other elements
+---
+
+SECTION: Chemistry of the Environment - Full Notes - Fractional Distillation of Liquid Air
+Q: How does fractional distillation of liquid air separate nitrogen and oxygen?
+A: It separates nitrogen and oxygen from the air. At first, the air is liquified by lowering the temperature to around -200 C. Then the temperature is allowed to increase. Nitrogen boils off first at around -196 C. It is collected and therefore removed. As there is further increase in temperature, the oxygen also boils off at around -183 C. Thus, they are being separated. Oxygen - 21%, Nitrogen - 78%
+---
+
+SECTION: Chemistry of the Environment - Full Notes
+Q: What are the uses of Oxygen?
+A: Making Steel, Welding, In hospitals to treat patients
+---
+
+SECTION: Chemistry of the Environment - Full Notes
+Q: What are the uses of Nitrogen?
+A: For making ammonia in the Haber process
+---
+
+SECTION: Chemistry of the Environment - Pollutants of Air - Carbon Dioxide
+Q: What is the source and adverse effect of Carbon Dioxide?
+A: Source: From complete combustion of carbon containing fuel. Adverse Effect: Act as a pollutant at higher concentration as it contributes to global warming
+---
+
+SECTION: Chemistry of the Environment - Pollutants of Air - Carbon Monoxide
+Q: What is the source and adverse effect of Carbon Monoxide?
+A: Source: From incomplete combustion of carbon containing fuel. Adverse Effect: It is a toxic gas that lowers the oxygen carrying capacity of blood
+---
+
+SECTION: Chemistry of the Environment - Pollutants of Air - Particulates
+Q: What is the source and adverse effect of Particulates?
+A: Source: From incomplete combustion of carbon containing fuel. Adverse Effect: Increased risk of respiratory problems and cancer
+---
+
+SECTION: Chemistry of the Environment - Pollutants of Air - Methane
+Q: What is the source and adverse effect of Methane?
+A: Source: Decomposition of vegetation and waste gases from digestion of animal. Adverse Effect: Higher level of methane also contributes to global warming
+---
+
+SECTION: Chemistry of the Environment - Pollutants of Air - Nitrogen Oxides
+Q: What is the source and adverse effect of Nitrogen Oxides?
+A: Source: From the car engines and lightning during thunderstorms. Adverse Effect: Mixes with rainwater and causes acid rain. It destroys the stoneworks, corrodes the metals and causes harm to aquatic life. Also causes photochemical smog and respiratory problems
+---
+
+SECTION: Chemistry of the Environment - Pollutants of Air - Sulfur Dioxide
+Q: What is the source and adverse effect of Sulfur Dioxide?
+A: Source: Combustion of fossil fuels containing sulfur, coal and from volcanoes. Adverse Effect: Mixes with rainwater and causes acid rain. It destroys the stoneworks, corrodes the metals and causes harm to the aquatic life
+---
+
+SECTION: Chemistry of the Environment
+Q: What are catalytic converters and how do they work?
+A: Due to the high temperature in car engines, the nitrogen and oxygen may combine to form nitrogen oxides. Also due to the incomplete combustion of fuel, some carbon monoxide may be formed. Catalytic converters are placed in the car's exhaust system that reconverts the oxides of nitrogen back to nitrogen and oxygen and combines this oxygen with the carbon monoxide to form carbon dioxide. After that the gases are being released. Reaction: 2CO + 2NO → N2 + 2CO2, Carbon Monoxide + Nitrogen Oxides → Nitrogen + Carbon Dioxide
+---
+
+SECTION: Chemistry of the Environment
+Q: What are greenhouse gases?
+A: Greenhouse gases are gases which absorb infrared radiation. They absorb thermal energy and reflect thermal energy back to earth by emitting the thermal energy, preventing thermal energy loss into space. Examples include Carbon Dioxide, Methane, Steam, Sulfur Dioxide
+---
+
+SECTION: Chemistry of the Environment
+Q: What are the effects of global warming?
+A: Greenhouse gases trap energy from sunlight that can cause global warming. The effects are: Melting of polar ice caps and rising of sea level, Sudden climate change, Extinction of species affecting the biodiversity
+---
+
+SECTION: Chemistry of the Environment
+Q: What is the effect of excess carbon dioxide in the atmosphere?
+A: Carbon dioxide acts as a pollutant at higher concentration. As it is a greenhouse gas, it causes global warming. However, carbon dioxide is naturally balanced in the carbon cycle. It can be removed by the method of photosynthesis. Photosynthesis ss the reaction between carbon dioxide and water to produce glucose and oxygen in the presence of chlorophyll and using energy from light. Reaction: 6CO2 + 6H2O → C6H12O6 + 6O2. Conditions: Sunlight, Chlorophyll. Human activities such as burning of fossil fuels and deforestation is increasing the level of carbon dioxide in the atmosphere
+---
+
+SECTION: Chemistry of the Environment
+Q: What are the strategies to reduce environmental issues?
+A: To reduce the climate change we can: Plant more trees, Reduction of livestock farming, Decreasing the use of fossil fuels, Increasing use of hydrogen and renewable energy. Flue-gas desulfurisation is a set of technologies that is used to remove sulfur dioxide from the exhaust gases of the fossil fuel power plant, industries or from any place where sulfur dioxide is being released. Calcium Oxide is used in flue-gas desulfurisation
+---
+
+SECTION: Chemistry of the Environment
+Q: What are fertilisers?
+A: These are chemicals that promote growth and increase the yield of plants. Ammonium salts and nitrate salts and phosphate salts are used as fertilisers. NPK fertilisers provides the elements Nitrogen, Phosphorus and Potassium for improved plant growth. Excess amounts of fertiliser can be harmful as it can cause deoxygenation of water (eutrophication). It causes damage to aquatic life.
+---
+
+SECTION: Chemistry of the Environment
+Q: How can the purity of water be tested?
+A: Pure substance always has fixed melting and boiling point. The purity of water can be tested using the melting and boiling point of water. Melting Point – 0 C, it will decrease if impurities present. Boiling Point – 100 C, it will increase if impurities present
+---
+
+SECTION: Chemistry of the Environment
+Q: Why is distilled water used in practical chemistry rather than tap water?
+A: Distilled water is used in practical chemistry rather than tap water because it contains fewer chemical impurities
+---
+
+SECTION: Chemistry of the Environment
+Q: What substances are found in water from natural sources?
+A: Water from natural sources contain many substances such as: Dissolved oxygen, Metal compounds, Plastic, Sewage, Harmful microbes, Nitrates from fertiliser, Phosphates from fertilisers and detergent
+---
+
+SECTION: Chemistry of the Environment
+Q: What substances in water are beneficial?
+A: Dissolved oxygen for aquatic life, Some metal compounds provide essential minerals for life
+---
+
+SECTION: Chemistry of the Environment
+Q: What substances in water are potentially harmful?
+A: Some metal compounds are toxic, Some plastics harm aquatic life, Sewage contains harmful microbes which cause disease (d) nitrates and phosphates lead to deoxygenation of water and damage to aquatic life
+---
+
+SECTION: Chemistry of the Environment
+Q: How is the domestic water supply treated?
+A: Sedimentation and filtration to remove solids, Use of carbon to remove tastes and odours, Chlorination to kill microbes
+---
+
+SECTION: Chemistry of the Environment
+Q: How is the presence of water tested?
+A: Add anhydrous copper (II) sulfate [CuSO4]. Observation – White to Blue. CuSO4 + H2O → CuSO4•H2O. Add anhydrous cobalt (II) chloride. Observation – Blue to Pink. CoCl2 + 6H2O → CoCl2•6H2O
+---
+
+SECTION: Chemistry of the Environment - Error List - Important Questions
+Q: How does the carbon cycle help keep the composition of air constant? (4 marks)
+A: The carbon cycle involves respiration and photosynthesis. Photosynthesis decreases carbon dioxide and increases oxygen. Respiration increases carbon dioxide and decreases oxygen. Combustion increases carbon dioxide and decreases oxygen. Decomposition increases carbon dioxide. The amount of carbon dioxide released into the atmosphere is roughly the same as the amount of carbon dioxide absorbed from the atmosphere
+---
+
+SECTION: Chemistry of the Environment - Error List - Important Questions
+Q: How does the carbon cycle help keep the composition of air constant? (2 marks)
+A: Photosynthesis decreases carbon dioxide. Respiration increases carbon dioxide. The amount of carbon dioxide released into the atmosphere is roughly the same as the amount of carbon dioxide absorbed from the atmosphere
+---
+
+SECTION: Chemistry of the Environment - Error List - Important Questions
+Q: How is oxygen/nitrogen extracted from the air?
+A: The air is liquefied. Fractional distillation of liquid air. The liquid air is heated gradually. Since the components of air have different boiling points. The gas with the lowest boiling point vaporises first and is collected from the top
+---
+
+SECTION: Chemistry of the Environment - Error List - Important Questions
+Q: What is eutrophication?
+A: Increased growth of algae cause algal bloom. This blocks out sunlight so plants cant photosynthesise. Plants beneath the surface die. Decomposers like bacteria and fungi decompose dead plants which use up oxygen. Other aquatic organisms die due to lack of oxygen
+---
+
+SECTION: Chemistry of the Environment - Error List - Important Questions
+Q: What percentage of air is nitrogen and oxygen?
+A: 78% of air is nitrogen and 21% of air is oxygen
+---
+
+SECTION: Chemistry of the Environment - Error List
+Q: Why does adding calcium hydroxide cause loss of nitrogen from fertiliser?
+A: Ammonia is produced which is a gas and escapes
+---
+
+SECTION: Chemistry of the Environment - Error List - General Questions
+Q: How do CFCs deplete the ozone layer?
+A: CFCs deplete the ozone layer and it is caused by chlorine
+---
+
+SECTION: Chemistry of the Environment - Error List - General Questions
+Q: What is desalination?
+A: Desalination is the removal of salt from sea water
+---
+
+SECTION: Chemistry of the Environment - Error List - General Questions
+Q: What is calcium carbonate used for?
+A: Calcium carbonate is used in Flue-gas desulfurisation and Added to lakes to neutralise acidic water
+---
+
+SECTION: Chemistry of the Environment - Error List - General Questions
+Q: Why should ozone be conserved?
+A: Ozone absorbs uv radiation. Too much UV increases risk of Skin Cancer and Cataracts
+---
+
+SECTION: Chemistry of the Environment - Error List - General Questions
+Q: What is a photochemical reaction?
+A: A photochemical reaction is a reaction where light acts as a catalyst
+---
+
+SECTION: Chemistry of the Environment - Error List - General Questions
+Q: What is methane used for?
+A: Methane is used as fuel
+---
+
+SECTION: Chemistry of the Environment - Error List - General Questions
+Q: How does sulfur dioxide form acid rain?
+A: Sulfur dioxide reacts with oxygen to form sulfur trioxide which dissolves in rain to form sulfuric acid and form acid rain.
+---
+
+SECTION: Chemistry of the Environment - Error List - Effect of Acid Rain
+Q: What are the effects of acid rain?
+A: Kills organisms in lakes, Damage to tree leaves, Erosion/Corrosion of buildings
+---
+
+SECTION: Organic Chemistry - Important Notes By Cambridge - Fuel
+Q: What information should be provided about fuel?
+A: (See image in original document)
+---
+
+SECTION: Organic Chemistry - Important Notes By Cambridge
+Q: What environmental challenges do plastics cause?
+A: Disposal in land fill sites - Non biodegradable - Cannot decompose naturally by bacteria and fungi, No reaction with water. Accumulation in oceans. Formation of toxic gases from burning - Such as Hydrogen Chloride and Carbon Monoxide (Incomplete burning)
+---
+
+SECTION: Organic Chemistry - Error List
+Q: Why is X an alkane and Y an alkene?
+A: X fits the general formula CnH2n+2 when n = x. Y fits the general formula CnH2n when n = x
+---
+
+SECTION: Organic Chemistry - Error List - Some Identifications
+Q: How do you identify if X is a hydrocarbon?
+A: X is a hydrocarbon as it contains only hydrogen and carbon
+---
+
+SECTION: Organic Chemistry - Error List - Some Identifications
+Q: How do you identify if X is unsaturated?
+A: X is unsaturated as it contains a carbon carbon double bond
+---
+
+SECTION: Organic Chemistry - Error List - Some Identifications
+Q: How do you identify if X is saturated?
+A: X is saturated as it contains only carbon carbon single bonds or all the carbon carbon bonds are single bonds
+---
+
+SECTION: Organic Chemistry - Error List
+Q: How much product is made from 100 tonne of reactant in an addition reaction?
+A: For addition reaction if 100 tonne of reactant is used, 100 tonne of product is made
+---
+
+SECTION: Organic Chemistry - Error List
+Q: What does non biodegradable mean?
+A: Non biodegradable means it cannot be decomposed by decomposers like fungi and bacteria
+---
+
+SECTION: Organic Chemistry - Error List - Macromolecule Definitions
+Q: What is addition polymerisation?
+A: Addition polymerisation is where monomers react together to form only one product
+---
+
+SECTION: Organic Chemistry - Error List - Macromolecule Definitions
+Q: What is an addition reaction?
+A: Addition reaction is one where reactants join together to form one product with no other products
+---
+
+SECTION: Organic Chemistry - Error List - Macromolecule Definitions
+Q: What is condensation polymerisation?
+A: Condensation polymerisation is where monomers react together to form a polymer and a small molecule like water
+---
+
+SECTION: Organic Chemistry - Error List - Macromolecule Definitions
+Q: What is a condensation reaction?
+A: Condensation reaction is one where molecules combine to make a product and a small molecule
+---
+
+SECTION: Organic Chemistry - Error List - Macromolecule Definitions
+Q: What is isomerism?
+A: Isomerism is when two compounds have the same molecular formula but different structures
+---
+
+SECTION: Organic Chemistry - Error List
+Q: Why does X decolourise bromine?
+A: It has Carbon Carbon double bond
+---
+
+SECTION: Organic Chemistry - Error List
+Q: What are the uses of nylon?
+A: Clothing, Fishing line/nets, Rope, Curtain materials, Sleeping bag, Parachutes
+---
+
+SECTION: Organic Chemistry - Error List
+Q: What are the uses of PET?
+A: Clothing, Bottles, Sheets, Ropes
+---
+
+SECTION: Organic Chemistry - Error List
+Q: What are the uses of polythene?
+A: Bottles, Bags, Packaging, Moisture barrier, Toys, Cling film
+---
+
+SECTION: Organic Chemistry - Error List
+Q: What are the uses of Esters?
+A: Flavourings, Solvents, Perfumes, Making PET, Nail polish remover
+---
+
+SECTION: Organic Chemistry - Error List - General
+Q: What do condensation reactions always produce?
+A: Condensation reactions always produce water
+---
+
+SECTION: Organic Chemistry - Error List - Reactions - Reaction 1
+Q: What is the reaction between Alkane and Halogen?
+A: Alkane + Halogen → Halogenoalkane + Hydrogen Halide. General Formula: CnH2n+2 + X2 → CnH2n+1X + HX. Type: Substitution. Conditions: UV Light
+---
+
+SECTION: Organic Chemistry - Error List - Reactions - Reaction 2
+Q: What is the reaction between Alkene and Halogen?
+A: Alkene + Halogen → Dihalogenoalkane. Type: Addition
+---
+
+SECTION: Organic Chemistry - Error List - Reactions - Reaction 3
+Q: What is the reaction between Alkene and Hydrogen?
+A: Alkene + Hydrogen → Alkane. Type: Addition/Reduction/Hydrogenation. Conditions: Nickel Catalyst, Heat
+---
+
+SECTION: Organic Chemistry - Error List - Reactions - Reaction 4
+Q: What is the reaction between Alkene and Hydrogen Halide?
+A: Alkene + Hydrogen Halide → Halogenoalkane. Type: Addition. Conditions: Rtp
+---
+
+SECTION: Organic Chemistry - Error List - Reactions - Reaction 5
+Q: What is the reaction Alkane breakdown?
+A: Alkane → Alkene + H2. Type: Elimination/Cracking. Conditions: SiO2/Al2O3 Catalyst, Heat
+---
+
+SECTION: Organic Chemistry - Error List - Reactions - Reaction 6
+Q: What is the reaction for alcohol to alkene?
+A: Alcohol → Alkene + Water. Type: Dehydration/Elimination. Conditions: Heat, Aluminium Oxide Catalyst
+---
+
+SECTION: Organic Chemistry - Error List - Reactions - Reaction 7
+Q: What is the fermentation reaction?
+A: Glucose → Ethanol + Carbon Dioxide. Type: Fermentation. Conditions: Temperature of 25-40/Heat, Yeast, Anaerobic atmosphere
+---
+
+SECTION: Organic Chemistry - Error List - Reactions - Reaction 8
+Q: What is the hydration reaction?
+A: Alkene + Steam → Alcohol. Type: Hydration. Conditions: High temperature (300 C), Pressure (60-70 atm), H3PO4 catalyst
+---
+
+SECTION: Organic Chemistry - Error List - Reactions - Reaction 9
+Q: What is the oxidation reaction of alcohol?
+A: Alcohol → Carboxylic Acid. Type: Oxidation. Conditions: Heating under reflux, Oxidising agent like acidified potassium dichromate(VI) or acidified potassium manganate (VII)
+---
+
+SECTION: Organic Chemistry - Error List - Reactions - Reaction 10
+Q: What is the esterification reaction?
+A: Alcohol + Carboxylic Acid → Ester. Type: Esterification. Conditions: Concentrated H2SO4, Heat
+---
+
+SECTION: Organic Chemistry - Error List - Reactions - Reaction 11
+Q: What is the reaction of ethanol with oxygen?
+A: Ethanol + Oxygen → Vinegar + Water. Conditions: Bacteria, Oxygen
+---
+
+SECTION: Organic Chemistry - Error List - Reactions - Reaction 12
+Q: What is the reaction for PET formation?
+A: Dicarboxylic acid + Diol → PET. Conditions: Dilute H2SO4, Heat
+---
+
+SECTION: Organic Chemistry - Error List - Reactions - Reaction 13
+Q: What is the decomposition of hydrogen peroxide?
+A: 2H2O2 → 2H2O + O2. Conditions: Heat, MnO4 Catalyst
+---
+
+SECTION: Organic Chemistry - Error List - Reactions - Reaction 14
+Q: What is the decomposition of metal carbonate?
+A: Metal Carbonate → Metal Oxide + Carbon Dioxide. Conditions: Heat
+---
+
+SECTION: Organic Chemistry - Error List - Reactions - Reaction 15
+Q: What is the reaction of calcium hydroxide with carbon dioxide?
+A: Ca(OH)2 (aq) + CO2 → CaCO3 (s) + H2O
+---
+
+SECTION: Organic Chemistry - Error List - Reactions - Reaction 16
+Q: What is the reaction involving calcium carbonate, water and carbon dioxide?
+A: CaCO3 (s) + H2O + CO2 → Ca(HCO3)2 (aq)
+---
+
+SECTION: Organic Chemistry - Error List - Reactions - Reaction 17
+Q: What is the reaction between ammonium salt and alkali?
+A: Ammonium Salt + Alkali → Metal Salt + Ammonia + Water. Conditions: Heat
+---
+
+SECTION: Organic Chemistry - Error List - Reactions - Reaction 18
+Q: What is the reaction of ammonia and copper oxide?
+A: 2NH3 + CuO → 3Cu + N2 + 3H2O. Conditions: Heat
+---
+
+SECTION: Organic Chemistry - Error List - Reactions - Reaction 19
+Q: What is the reaction between sulfite salt and dilute acid?
+A: Sulfite Salt + Dilute Acid → Salt + Water + Sulfur Dioxide
+---
+
+SECTION: Organic Chemistry - Error List - Reactions - Reaction 20
+Q: What is the reaction between sulfur dioxide and alkali?
+A: Sulfur Dioxide + Alkali → Sulfite Salt + Water
+---
+
+SECTION: Organic Chemistry - Error List - Reactions - Reaction 21
+Q: What happens when sulfur dioxide reacts with water?
+A: Sulfur dioxide reacts with water to form sulfurous acid (Not sulfuric)
+---
+
+SECTION: Organic Chemistry - Error List - Reactions - Reaction 22
+Q: What is the reaction between Group 1 metals and hydrogen?
+A: Group 1 metals + Hydrogen → Ionic solid of metal hydride
+---
+
+SECTION: Organic Chemistry - Error List - Reactions - Reaction 23
+Q: What is the reaction between Group 1 metal hydride and water?
+A: Group 1 Metal Hydride + Water → Metal Hydroxide + Hydrogen
+---
+
+SECTION: Organic Chemistry - Error List - Reactions - Reaction 24
+Q: What is the thermal decomposition of lithium nitrate?
+A: 4LiNO3 → 2Li2O + 4NO2 + O2. Conditions: Heat
+---
+
+SECTION: Organic Chemistry - Error List - Reactions - Reaction 25
+Q: What is the reaction between permanganate and hydrochloric acid?
+A: MnO4 + 4HCl → MnCl2 + Cl2 + 2H2O. Conditions: Heat
+---
+
+SECTION: Organic Chemistry - Error List - Reactions - Reaction 26
+Q: When is a reaction a displacement reaction?
+A: Reaction of metal with the following is displacement reaction: Cold Water, Steam, Dilute acid
+---
+
+SECTION: Organic Chemistry - Error List - Reactions - Reaction 27
+Q: What is the reaction of iron with steam?
+A: Fe + H2O (Steam) → Fe3O4 + H2
+---
+
+SECTION: Organic Chemistry - Error List - Reactions - Reaction 28
+Q: What are the raw materials and products in the extraction of iron?
+A: Raw Materials: Iron Ore/Hematite/FeO3, Carbon/C, Limestone/CaCO3. Products: Slag - Low Density, Iron - High Density
+---
+
+SECTION: Organic Chemistry - Error List - Reactions - Reaction 29
+Q: What is the reaction between iron and chlorine?
+A: 2Fe + 3Cl2 → 2FeCl3. Conditions: Heat
+---
+
+SECTION: Organic Chemistry - Error List - Reactions - Reaction 30
+Q: What is the reaction of protein?
+A: Protein → Amino acid. Conditions: Heat/reflux, HCl
+---
+
+SECTION: Experimental Techniques and Chemical Analysis - Error List - Distillation
+Q: How does distillation work?
+A: Distillation depends on the boiling point. In distillation a condenser is attached to a flask. The solution in the flask is heated. As water has lower boiling point it vaporises first. Water vapour is condensed into liquid in condenser and collected in a separate flask
+---
+
+SECTION: Experimental Techniques and Chemical Analysis - Error List
+Q: Why should we not let the solvent front reach the top of the paper?
+A: This makes it impossible to calculate Rf values as the distance travelled by solvent is unknown
+---
+
+SECTION: Experimental Techniques and Chemical Analysis - Error List - Washing Procedures
+Q: What are the washing procedures for a pipette?
+A: Distill water, Liquid to be taken
+---
+
+SECTION: Experimental Techniques and Chemical Analysis - Error List - Washing Procedures
+Q: What are the washing procedures for a burette?
+A: Distill water, Liquid to be taken
+---
+
+SECTION: Experimental Techniques and Chemical Analysis - Error List - Washing Procedures
+Q: What are the washing procedures for a conical flask?
+A: Tap Water, Distill Water
+---
+
+SECTION: Experimental Techniques and Chemical Analysis - Error List - Apparatus
+Q: What is a stopwatch used for?
+A: Stopwatch - To measure time. Measurement ability: Minute or Second. Additional notes: Difficult to start stop watch and experiment simultaneously
+---
+
+SECTION: Experimental Techniques and Chemical Analysis - Error List - Apparatus
+Q: What is a thermometer used for?
+A: Thermometer - Measure temperature. Range → -10C to 110C. Graduation → 1C
+---
+
+SECTION: Experimental Techniques and Chemical Analysis - Error List - Apparatus
+Q: What is a balance used for?
+A: Balance - To measure mass. Measurement ability: 2 dp or 1 dp
+---
+
+SECTION: Experimental Techniques and Chemical Analysis - Error List - Apparatus
+Q: What is a burette used for?
+A: Burette - To deliver liquid. Used in titration. Range → 0.0 to 50.0. Graduation → 0.1 cm3
+---
+
+SECTION: Experimental Techniques and Chemical Analysis - Error List - Apparatus
+Q: What is a volumetric pipette used for?
+A: Volumetric pipette - Fixed volume of liquid. Measurement: 20 cm3, 25 cm3, etc. Disadvantage → It only has fixed volume. Advantage → It has very high accuracy
+---
+
+SECTION: Experimental Techniques and Chemical Analysis - Error List - Apparatus
+Q: What is a gas syringe used for?
+A: Gas Syringe - To collect gas. Range → 100 cm3
+---
+
+SECTION: Experimental Techniques and Chemical Analysis - Error List - Apparatus
+Q: What is a measuring cylinder used for?
+A: Measuring Cylinder - To measure liquid. Cannot measure 1 dp. For 1 dp Burette must be used
+---
