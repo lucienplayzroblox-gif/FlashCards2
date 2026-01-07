@@ -36,13 +36,23 @@ const allFlashcards = [
     { fullSection: "SECTION: States of Matter - Error List - General", topic: "States of Matter", q: "How should diffusion be described in chemistry?", a: "In chemistry we write 'with the concentration gradient', not 'down the concentration gradient'" },
 
     // ATOMS, ELEMENTS AND COMPOUNDS
+    { fullSection: "SECTION: Atoms, Elements and Compounds - Shabab Sir", topic: "Atoms, Elements and Compounds", q: "What is an atom?" , a: "An atom is the smallest indivitual particle of an element that may or may not exist on its own"},
+    { fullSection: "SECTION: Atoms, Elements and Compounds - Shabab Sir", topic: "Atoms, Elements and Compounds", q: "What is an element?" , a: "An element is a  pure substance that contains only same type of atoms. Elements cannot be broken down into any simpler subject by chemical means"},
+    { fullSection: "SECTION: Atoms, Elements and Compounds - Shabab Sir", topic: "Atoms, Elements and Compounds", q: "What is a compounds?" , a: "Substances made up of two or more different elements joined together by chemical bonds"},
+    { fullSection: "SECTION: Atoms, Elements and Compounds - Shabab Sir", topic: "Atoms, Elements and Compounds", q: "What is a molecule?" , a: "A molecule is a group of atoms joined together by covalent bonds"},
+    { fullSection: "SECTION: Atoms, Elements and Compounds - Shabab Sir", topic: "Atoms, Elements and Compounds", q: "What is an ion?" , a: "An ion is a charged particle that is formed when an atom gains or loses electrons. It is a charged particle because it contains unequal number of protons and electrons"},
+    { fullSection: "SECTION: Atoms, Elements and Compounds - Shabab Sir", topic: "Atoms, Elements and Compounds", q: "What is the difference between anion and cation?" , a: "Cation is positive ion and anion is negative ion."},
+    { fullSection: "SECTION: Atoms, Elements and Compounds - Shabab Sir", topic: "Atoms, Elements and Compounds", q: "What is RAM?" , a: "Relative atomic mass is the average mass of all the isotopes of an element compared to one-twelfth the mass of a C-12 atom or atomic mass unit"},
     { fullSection: "SECTION: Atoms, Elements and Compounds - Error List", topic: "Atoms, Elements and Compounds", q: "What are isotopes?", a: "Isotopes are atoms of the same element with the same number of protons and electrons but different number of neutrons or different nucleon number" },
+    { fullSection: "SECTION: Atoms, Elements and Compounds - Shabab Sir", topic: "Atoms, Elements and Compounds", q: "What is covalent bonding?" , a: "It is a strong electrostatic force of attraction between positively charged nuclei of the bonded atoms and the shared pair of electrons. It occurs by sharing pairs of electrons between non-metal atoms"},
     { fullSection: "SECTION: Atoms, Elements and Compounds - Error List", topic: "Atoms, Elements and Compounds", q: "Why is graphite slippery?", a: "Atoms are arranged in layer/It has layered structure. The layers slide over each other if force is applied as there are weak forces between layers" },
     { fullSection: "SECTION: Atoms, Elements and Compounds - Error List", topic: "Atoms, Elements and Compounds", q: "What are the similarities between diamond and silicon dioxide?", a: "Tetrahedral structure, Giant structure, Covalent bonds" },
     { fullSection: "SECTION: Atoms, Elements and Compounds - Error List", topic: "Atoms, Elements and Compounds", q: "Why are noble gases unreactive?", a: "It has a full electronic structure and its outer shell has 8/2 electrons, so it does not want to take or give electrons." },
     { fullSection: "SECTION: Atoms, Elements and Compounds - Error List", topic: "Atoms, Elements and Compounds", q: "Why does X have a higher RAM?", a: "It has a greater proportion of heavier isotopes" },
     { fullSection: "SECTION: Atoms, Elements and Compounds - Error List", topic: "Atoms, Elements and Compounds", q: "Why is X a neutral particle?", a: "It has same number of protons and electrons. Protons have +1 positive charge and electrons have -1 negative charge. So they cancel each other" },
     { fullSection: "SECTION: Atoms, Elements and Compounds - Error List", topic: "Atoms, Elements and Compounds", q: "What are the physical properties of ions?", a: "Dissolves in water, Conducts electricity when molten, High melting point" },
+    { fullSection: "SECTION: Atoms, Elements and Compounds - Error List", topic: "Atoms, Elements and Compounds", q: "What are the physical properties of simple covalent molecules?", a: "Insoluble in water, Do not conduct electricity, Low melting point" },
+    { fullSection: "SECTION: Atoms, Elements and Compounds - Error List", topic: "Atoms, Elements and Compounds", q: "Describe the structure of diamond, graphite, sand and fullerene?", a: "In diamond each carbon atom is joined to 4 other carbon atoms in a tetrahedral structure. In graphite, each carbon atom is bonded to 3 other carbon atom in a hexagonal layer, the layers are bonded by weak intermolecular forces of attraction and the fourth electron of carbon is free to move and carry charge. In silicon dioxide, each silicon atom is bonded to four oxygen atoms in a tetrahedral structureand each oxygen atom is covalently bonded with two silicon atoms. Fullerene is spherical in shape and contains 60 carbon atoms where each atom is bonded with 3 other carbon atoms." },
     { fullSection: "SECTION: Atoms, Elements and Compounds - Error List", topic: "Atoms, Elements and Compounds", q: "Why do covalent compounds have high melting point?", a: "Giant covalent structure, Strong covalent bonds, High energy needed to break bonds" },
     { fullSection: "SECTION: Atoms, Elements and Compounds - Error List", topic: "Atoms, Elements and Compounds", q: "Why do ionic compounds have high melting point?", a: "They have giant ionic lattice structure, They have strong electrostatic force of attraction between positive and negative ions, A high amount of energy is needed to overcome the forces" },
     { fullSection: "SECTION: Atoms, Elements and Compounds - Error List", topic: "Atoms, Elements and Compounds", q: "Why does chlorine have low melting point?", a: "It is a simple covalent structure, It has weak forces between molecules, Small amount of energy required to separate molecules or overcome force" },
@@ -62,6 +72,7 @@ const allFlashcards = [
     { fullSection: "SECTION: Electrochemistry - Error List - General", topic: "Electrochemistry", q: "What should be mentioned when the cathode increases in mass?", a: "Mention cathode gets plated when it increases in mass" },
     { fullSection: "SECTION: Electrochemistry - Error List - General", topic: "Electrochemistry", q: "What is the mole ratio of hydrogen and oxygen in water?", a: "Mole ratio of hydrogen and oxygen in water is 2:1 so volume of hydrogen produced is approximately double that of oxygen" },
     { fullSection: "SECTION: Electrochemistry - Error List - General", topic: "Electrochemistry", q: "What is electroplating used for?", a: "Electroplating is used to increase hardness and resistance to corrosion" },
+    { fullSection: "SECTION: Electrochemistry - Error List - General", topic: "Electrochemistry", q: "How does the electrolysis of sulfuric acid look like", a: "image2.png" },
     { fullSection: "SECTION: Electrochemistry - Error List - General", topic: "Electrochemistry", q: "What are the advantages of hydrogen as a fuel?", a: "Produces only water as a product (Non-polluting), Hydrogen can be obtained from a renewable source" },
     { fullSection: "SECTION: Electrochemistry - Error List - General", topic: "Electrochemistry", q: "What are the disadvantages of hydrogen as a fuel?", a: "It is flammable/explosive" },
 
@@ -73,7 +84,7 @@ const allFlashcards = [
 
     // INDUSTRIAL CHEMISTRY
     { fullSection: "SECTION: Industrial Chemistry", topic: "Industrial Chemistry", q: "What are the uses of sulfur dioxide?", a: "Food preservative, Manufacture of wood pulp/paper (by acting as a bleach), Manufacture of sulfuric acid" },
-    { fullSection: "SECTION: Industrial Chemistry", q: "What are the uses of sulfuric acid?", a: "Manufacture of fertilisers, Battery acid, Manufacture of detergents" },
+    { fullSection: "SECTION: Industrial Chemistry", topic: "Industrial Chemistry", q: "What are the uses of sulfuric acid?", a: "Manufacture of fertilisers, Battery acid, Manufacture of detergents" },
     { fullSection: "SECTION: Industrial Chemistry", topic: "Industrial Chemistry", q: "Why does a reaction/catalyst become hot?", a: "Reaction is exothermic, Heat is released" },
 
     // ACIDS, BASES AND SALTS
@@ -92,6 +103,13 @@ const allFlashcards = [
     { fullSection: "SECTION: Acids, Bases and Salts - Error List - Solubility Chart - Oxides and Hydroxides", topic: "Acids, Bases and Salts", q: "What can be said about other oxides and hydroxides?", a: "No other Oxide or Hydroxide is soluble in water" },
 
     // THE PERIODIC TABLE
+    { fullSection: "SECTION: The Periodic Table - Shabab Sir", topic: "The Periodic Table", q: "What is atomic number or proton number" , a: "The number of protons present in an atom is said to be the atomic number. Atoms of two different elements can never have the same atomic number. The periodic table is arranged in order of increasing atomic number"},
+    { fullSection: "SECTION: The Periodic Table - Shabab Sir", topic: "The Periodic Table", q: "What is mass number or nucleon number" , a: "The total number of protons and neutrons of an atom is said to be its mass number"},
+    { fullSection: "SECTION: The Periodic Table - Shabab Sir", topic: "The Periodic Table", q: "What is the periodic table?" , a: "It is a list of elements arranged in order of increasing atomic number. The periodic table divides the elements into groups and periods"},
+    { fullSection: "SECTION: The Periodic Table - Shabab Sir", topic: "The Periodic Table", q: "What are periods" , a: "The horizontal rows of elements in the periodic table are called periods. The period number indicates the number of electronic shells in an atom. There are 7 periods in the periodic table."},
+    { fullSection: "SECTION: The Periodic Table - Shabab Sir", topic: "The Periodic Table", q: "What are groups?" , a: "The vertical columns of elements in the periodic table are called the groups. The group number indicates the number of electrons in the outermost shell of an atom. There are 8 groups in the periodic table"},
+    { fullSection: "SECTION: The Periodic Table - Shabab Sir", topic: "The Periodic Table", q: "What is the trend of metallic charactertistics?" , a: "Metallic characteristic decreases across the group and increases down the group. (Opposite for non-metallic characteristic)"},
+    { fullSection: "SECTION: The Periodic Table - Shabab Sir", topic: "The Periodic Table", q: "What is the trend of atomic radius of elements" , a: "Atomic radius decreases across the period and increases down the group"},
     { fullSection: "SECTION: The Periodic Table - Error List - General", topic: "The Periodic Table", q: "Is Carbon Dioxide acidic or neutral?", a: "Carbon Dioxide is acidic, Carbon Monoxide is neutral" },
     { fullSection: "SECTION: The Periodic Table - Error List - General", topic: "The Periodic Table", q: "What are the colours of copper compounds?", a: "Copper is pink, Copper (II) Oxide is black, Copper (I) Oxide is red" },
     { fullSection: "SECTION: The Periodic Table - Error List - General", topic: "The Periodic Table", q: "What are monoatomic elements?", a: "Monoatomic elements are those which exist as an atom and do not from molecules" },
@@ -108,6 +126,8 @@ const allFlashcards = [
     { fullSection: "SECTION: Metals - Error List", topic: "Metals", q: "Why is aluminium unreactive?", a: "Aluminium is unreactive as it forms a non-porous oxide layer which is impermeable to water and oxygen" },
     { fullSection: "SECTION: Metals - Error List - Alloys", topic: "Metals", q: "How do alloys differ from pure metals?", a: "Alloys have different sized atoms which prevent ions from sliding over each other easily but pure metals have same sized atoms so layers of atoms can slide over each other easily when force is applied. For example, in an alloy of Iron and Manganese, the larger Manganese atoms stop the layers from sliding easily." },
     { fullSection: "SECTION: Metals - Error List - Alloys", topic: "Metals", q: "What are the differences between alloys and pure metals?", a: "Alloys are harder, Alloys are less malleable, Metals have greater electrical conductivity, Alloys are more brittle [Weaker point]" },
+    { fullSection: "SECTION: Metals - Error List", topic: "Metals", q: "What is metallic bonding?", a: "Metallic bonding is a strong electrostatic force of attraction between the metal ions and sea of delocalised electrons. It occurs in the metals and alloys. This requires a high amount of energy to break" },
+    { fullSection: "SECTION: Metals - Error List", topic: "Metals", q: "What are some properties of metal?", a: "They have high metaling and boiling pont. They are good conductors of heat and electricity, malleable, ductile, sonorous and usually shiny." },
     { fullSection: "SECTION: Metals - Error List", topic: "Metals", q: "Why are metals malleable?", a: "Metals are malleable as metal ions form layers which can slide over each other easily if force is applied" },
     { fullSection: "SECTION: Metals - Error List", topic: "Metals", q: "What are the uses of materials in blast furnace?", a: "Haematite – Iron ore which contains the iron and is reduced to form iron, Limestone – Decomposes to form calcium oxide (and carbon dioxide) which removes impurities. (Such as silicon dioxide by reacting with it to form slag), Coke – Forms carbon dioxide with oxygen and then reduces it to carbon monoxide. Carbon monoxide reduces iron ore to form iron" },
     { fullSection: "SECTION: Metals - Error List", topic: "Metals", q: "Describe the processes that occur in a blast furnace?", a: "Carbon reacts with oxygen in air blast to form carbon dioxide, Carbon reduces carbon dioxide to form carbon monoxide, Carbon monoxide reduces haematite to form iron, Carbon can also reduce haematite in hotter parts of the furnace [Weaker point], Calcium carbonate thermally decomposes to form calcium oxide, Calcium oxide reacts with silicon dioxide in the ore, Calcium oxide also reacts with acidic impurities [Weaker point, mention only if the details of limestone role are asked for], This forms slag/calcium silicate, These impurities would have clogged up the blast furnace if not removed by limestone. [Weaker point, mention only if the details of limestone role are asked for]" },
@@ -282,38 +302,6 @@ const allFlashcards = [
     { fullSection: "SECTION: Acids, Bases and Salts - pH Scale", topic: "Acids, Bases and Salts", q: "What pH range represents an alkaline solution?", a: "pH 8 to 14 (above pH 7)" }
 ];
 
-// PHYSICS FLASHCARDS (extracted from Physics/Physics.html)
-allFlashcards.push(
-    { fullSection: "SECTION: Physics - Practical - Planning and Variables", topic: "Physics", q: "What should you mention for variables in a practical?", a: "State the independent and dependent variables and list control variables" },
-    { fullSection: "SECTION: Physics - Practical - Method", topic: "Physics", q: "What are key method points for experiments?", a: "Describe method, measure both variables, state instruments and repeats for averages" },
-    { fullSection: "SECTION: Physics - Practical - Tables and Graphs", topic: "Physics", q: "What should a results table include?", a: "Include all measurements with units; draw appropriate graph (y vs x) for analysis" },
-
-    { fullSection: "SECTION: Physics - General and Mechanics - Centre of Mass", topic: "Mechanics", q: "How can you find the centre of mass of a lamina?", a: "Suspend from two points, draw plumb lines; intersection gives centre of mass" },
-    { fullSection: "SECTION: Physics - General and Mechanics - Moments", topic: "Mechanics", q: "What is the moment of a force?", a: "Moment = force × perpendicular distance from pivot; measure turning effect" },
-    { fullSection: "SECTION: Physics - Motion, Forces and Energy - Definitions", topic: "Mechanics", q: "Define speed and velocity", a: "Speed = distance/time; Velocity = change in displacement/time" },
-    { fullSection: "SECTION: Physics - Motion, Forces and Energy - Definitions", topic: "Mechanics", q: "Define momentum and impulse", a: "Momentum = mass × velocity; Impulse = force × time" },
-    { fullSection: "SECTION: Physics - Motion, Forces and Energy - Energy", topic: "Mechanics", q: "Name common energy stores", a: "Kinetic, gravitational potential, chemical, elastic, nuclear, electrostatic, thermal" },
-
-    { fullSection: "SECTION: Physics - Thermal Physics - Precautions", topic: "Thermal", q: "What precaution when taking temperature readings?", a: "Wait ~30 s for thermometer to stabilise; view at eye level and use lower meniscus" },
-    { fullSection: "SECTION: Physics - Thermal Physics - Definitions", topic: "Thermal", q: "What is specific heat capacity?", a: "Energy required per unit mass per unit temperature increase" },
-    { fullSection: "SECTION: Physics - Thermal Physics - Transfer", topic: "Thermal", q: "Describe conduction in solids", a: "Vibrational transfer of energy through lattice; in metals also by free electrons" },
-
-    { fullSection: "SECTION: Physics - Waves - General", topic: "Waves", q: "What is frequency and wavelength?", a: "Frequency = wavelengths passing per second; Wavelength = distance between consecutive crests" },
-    { fullSection: "SECTION: Physics - Waves - Sound", topic: "Waves", q: "What frequency range is audible to humans?", a: "Approximately 20 Hz to 20,000 Hz" },
-    { fullSection: "SECTION: Physics - Light and EM - Electromagnetic Spectrum", topic: "Waves", q: "What is a use of X-rays?", a: "X-rays pass through soft tissue but not bone; used for imaging bones" },
-
-    { fullSection: "SECTION: Physics - Optics - Practical", topic: "Optics", q: "Name a tip when doing lens experiments", a: "Perform in a dark room, use a protractor for accurate angles and move lens to get clear image" },
-
-    { fullSection: "SECTION: Physics - Electricity and Magnetism - Definitions", topic: "Electricity", q: "Define electric current and e.m.f.", a: "Current = charge per unit time; e.m.f. = work done per unit charge around a complete circuit" },
-    { fullSection: "SECTION: Physics - Electricity and Magnetism - Circuits", topic: "Electricity", q: "Why place the fuse in the live wire?", a: "So melting the fuse disconnects the live supply and prevents the device casing remaining live" },
-    { fullSection: "SECTION: Physics - Electricity and Magnetism - Practical", topic: "Electricity", q: "What is a kilowatt-hour?", a: "Energy used by 1 kW device running for one hour; unit for domestic energy" },
-
-    { fullSection: "SECTION: Physics - Nuclear Physics - Radioactivity", topic: "Nuclear", q: "What is half-life?", a: "Time taken for half the nuclei in a sample to decay" },
-    { fullSection: "SECTION: Physics - Nuclear Physics - Applications", topic: "Nuclear", q: "Give an application of gamma radiation", a: "Sterilisation of equipment or food irradiation" },
-
-    { fullSection: "SECTION: Physics - Space Physics - Solar System", topic: "Space", q: "How long does light from the Sun take to reach Earth?", a: "About 500 seconds (≈8 minutes 20 seconds)" },
-    { fullSection: "SECTION: Physics - Space Physics - Orbits", topic: "Space", q: "What keeps a planet in orbit?", a: "Gravitational attraction provides the centripetal force for orbital motion" }
-);
 
 let currentCardIndex = 0;
 let filteredFlashcards = allFlashcards;
@@ -387,8 +375,23 @@ function displayCard(index) {
     
     const card = filteredFlashcards[index];
     document.getElementById('sectionText').textContent = card.fullSection;
-    document.getElementById('questionText').textContent = card.q;
-    document.getElementById('answerText').textContent = card.a;
+    const questionEl = document.getElementById('questionText');
+    // Render question (text or image)
+    if (typeof card.q === 'string' && card.q.match(/\.(png|jpe?g|gif|svg)$/i)) {
+        const src = card.q.includes('/') ? card.q : `Images/${card.q}`;
+        questionEl.innerHTML = `<img src="${src}" alt="Question image" class="question-image">`;
+    } else {
+        questionEl.textContent = card.q;
+    }
+
+    const answerEl = document.getElementById('answerText');
+    // Render answer as image if filename provided, otherwise text
+    if (typeof card.a === 'string' && card.a.match(/\.(png|jpe?g|gif|svg)$/i)) {
+        const src = card.a.includes('/') ? card.a : `Images/${card.a}`;
+        answerEl.innerHTML = `<img src="${src}" alt="Answer image" class="answer-image">`;
+    } else {
+        answerEl.textContent = card.a;
+    }
     document.getElementById('cardCount').textContent = `${index + 1} / ${filteredFlashcards.length}`;
     
     const flashcardEl = document.getElementById('flashcard');
